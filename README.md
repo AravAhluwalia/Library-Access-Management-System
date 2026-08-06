@@ -24,7 +24,7 @@ A Flask-based backend application for managing library access, student authoriza
 ```text
 .
 ├── app.py
-├── students_data_sample.csv
+├── students_sample_data.csv
 ├── requirements.txt
 └── templates/
     ├── library_view.html
