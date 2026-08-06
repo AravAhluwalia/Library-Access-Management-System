@@ -26,6 +26,7 @@ A Flask-based backend application for managing library access, student authoriza
 ├── app.py
 ├── students_sample_data.csv
 ├── requirements.txt
+├── .gitignore
 └── templates/
     ├── library_view.html
     └── students.html
