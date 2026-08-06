@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Flask database
+*.db
+
+# Virtual environments
+venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
